@@ -29,6 +29,6 @@ By the end of the module, you will be able to:
 
 | Lesson                     | Overview |
 | -------------------------- | ---------|
-| [Case study 1](https://cloud-span.github.io/experimental_design01-casestudies/01-platform/index.html) | Platform Choice |
-| [Case study 2](https://cloud-span.github.io/experimental_design01-casestudies/02-design/index.html) | Principles of Design |
-| [Case study 3](https://cloud-span.github.io/experimental_design01-casestudies/03-statistical-analysis/index.html) | Statistical Considerations |
+| [Platform Choice ](https://cloud-span.github.io/experimental_design01-casestudies/01-platform/index.html) | Platform Choice |
+| [Principles of Design](https://cloud-span.github.io/experimental_design01-casestudies/02-design/index.html) | Principles of Design |
+| [Statistical Considerations](https://cloud-span.github.io/experimental_design01-casestudies/03-statistical-analysis/index.html) | Statistical Considerations |
