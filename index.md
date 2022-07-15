@@ -5,7 +5,7 @@
 
 > ## Getting Started
 >
-> In this half-day workshop we consider some important aspects of useful experimental design. This course will not include coding or software but will be a discussion including some case studies. 
+> In this half-day workshop we consider some important aspects of useful experimental design. This course will not include coding or software but will be a discussion including some case studies.
 >
 {: .prereq}
 
@@ -29,6 +29,6 @@ By the end of the module, you will be able to:
 
 | Lesson                     | Overview |
 | -------------------------- | ---------|
-| [Platform Choice ](https://cloud-span.github.io/experimental_design01-casestudies/01-platform/index.html) | Platform Choice |
-| [Principles of Design](https://cloud-span.github.io/experimental_design01-casestudies/02-design/index.html) | Principles of Design |
-| [Statistical Considerations](https://cloud-span.github.io/experimental_design01-casestudies/03-statistical-analysis/index.html) | Statistical Considerations |
+| [Platform Choice ](https://cloud-span.github.io/experimental_design01-principles/01-platform/index.html) | Platform Choice |
+| [Principles of Design](https://cloud-span.github.io/experimental_design01-principles/02-design/index.html) | Principles of Design |
+| [Statistical Considerations](https://cloud-span.github.io/experimental_design01-principles/03-statistical-analysis/index.html) | Statistical Considerations |
