@@ -22,7 +22,7 @@ By the end of the module, you will be able to:
 - Understand why statistical design is important
 - How to incorporate good statistical design into your experiments
 - Good practises in design
-- You will have the confidance to incorporate lessons learnt into your own work
+- You will have the confidence to incorporate lessons learnt into your own work
 
 
 # Course Overview
