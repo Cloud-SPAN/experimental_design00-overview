@@ -30,4 +30,4 @@ By the end of the module, you will be able to:
 | Lesson                     | Overview |
 | -------------------------- | ---------|
 | [Principles of design](https://cloud-span.github.io/experimental_design01-principles/)| Principles of experimental design |
-| [Case studies](https://github.com/Cloud-SPAN/experimental_design02-case-study)| Case studies |
+| [Case studies](https://cloud-span.github.io/experimental_design02-case-study)| Case studies |
