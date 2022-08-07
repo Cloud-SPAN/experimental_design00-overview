@@ -1,28 +1,32 @@
 ---
 ---
-[Cloud-SPAN](https://cloud-span.york.ac.uk) is a project run by the Department of Biology at the University of York with the aim to training researchers in the experimental design and analysis of 'omics data using cloud-based High Performance Computing (HPC) resources.
+[Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI innovation scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
 
+**Statistically useful experimental design** is a 2 - 3 hour workshop about designing 'omics experiments. We consider:
+-   what influences platform choice and what influences design when platform choice is fixed 
+-   replication and controls
+-   sequence coverage and depth
+-   Type I and Type II errors and multiple testing correction
 
 > ## Getting Started
 >
-> In this half-day workshop we consider some important aspects of useful experimental design. This course will not include coding or software but will be a discussion including some case studies.
->
+> This course not not require any software or coding. Some principles of design will be presented followed by discussion of their application using three case studies. There will also be an opportunity for participants to discuss their own designs.
+> This module assumes no experience with designing omics' experiments but some previous experience experimental design and statistical analysis - such as would be covered in an undergraduate bioscience degreee - would be useful.
 {: .prereq}
 
 ## Background
-Experimental design is critical for 'omics experiments in order to generate data capable of addressing your research questions and control your reagent costs. There are choices to be made about sample preparation and storage, sequencing technologies, the numbers of technical and biological replicates and sequencing depth. Statistics are important in enabling us to understand how robust our data is, and enables us to answer key questions about a dataset. However often many experiments are poorly designed, and can result in data that has no statistical power, and can't answer these questions you're trying to pose. The best way to tackle this is to think about how the data can be collected in a way that will enable the analysis downstream to be robust and defensible/ publishable before the experiment is performed.
+Experimental design is critical for 'omics experiments in order to generate data capable of addressing your research questions and control your reagent costs. There are choices to be made about sample preparation and storage, sequencing technologies, the numbers of technical and biological replicates and sequencing depth. All of these influence what downstream statistical analysis is possible and determine what generalisations can be made. A good experimental design, appropriate to the budget constraints, will ensure you make the relevant comparions with enough data to provide clear, publishable conclusions.
 
 
+## Learning outcomes
 
-## What experience do you need to have before this workshop? What will you be able to do by the end of the workshop?
+Following completion of this module, learners will be able to:
 
-This lesson assumes no experience with designing omics' experiments but some previous experience of simple experimental design and statistical testing will useful.
-By the end of the module, you will be able to:
-
-- Understand why statistical design is important
-- How to incorporate good statistical design into your experiments
-- Good practises in design
-- You will have the confidence to incorporate lessons learnt into your own work
+- describe why statistical design is important
+- make informed choices about sequencing platforms
+- make informed decisions about controls and replication
+- describe sequence coverage and depth
+- critically evaluate their own 'omics experimental designs
 
 
 # Course Overview
