@@ -11,11 +11,11 @@
 > ## Getting Started
 >
 > This course not not require any software or coding. Some principles of design will be presented followed by discussion of their application using three case studies. There will also be an opportunity for participants to discuss their own designs.
-> This module assumes no experience with designing omics' experiments but some previous experience experimental design and statistical analysis - such as would be covered in an undergraduate bioscience degreee - would be useful.
+> This module assumes no experience with designing omics' experiments but some previous experience of experimental design and statistical analysis - such as would be covered in an undergraduate bioscience degreee - would be useful.
 {: .prereq}
 
 ## Background
-Experimental design is critical for 'omics experiments in order to generate data capable of addressing your research questions and control your reagent costs. There are choices to be made about sample preparation and storage, sequencing technologies, the numbers of technical and biological replicates and sequencing depth. All of these influence what downstream statistical analysis is possible and determine what generalisations can be made. A good experimental design, appropriate to the budget constraints, will ensure you make the relevant comparions with enough data to provide clear, publishable conclusions.
+Good experimental design is critical for 'omics experiments to ensure they generate data capable of addressing your research questions while controlling your reagent costs. There are choices to be made about sample preparation and storage, sequencing technologies, the numbers of technical and biological replicates and sequencing depth. All of these influence what downstream statistical analysis is possible and determine what generalisations can be made. A good experimental design, appropriate to the budget constraints, will ensure you make the relevant comparions with enough data to provide clear, publishable conclusions.
 
 
 ## Learning outcomes
