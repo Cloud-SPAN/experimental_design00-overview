@@ -31,7 +31,18 @@ Following completion of this module, learners will be able to:
 
 # Course Overview
 
-| Lesson                     | Overview |
-| -------------------------- | ---------|
-| [Principles of design](https://cloud-span.github.io/experimental_design01-principles/)| Principles of experimental design |
-| [Case studies](https://cloud-span.github.io/experimental_design02-case-study/)| Case studies |
+| Overview                     | Topic | Activity
+| ---------------------------- | ------| ---------- |
+| [Principles of experimental design ](https://cloud-span.github.io/experimental_design01-principles/) | [What platform?](https://cloud-span.github.io/experimental_design01-principles/01-platform/index.html)  |  Tutor-led |
+|   | [Understanding experimental design](https://cloud-span.github.io/experimental_design01-principles/02-design/index.html)  |  Tutor-led |
+|   | [Statistical Analysis](https://cloud-span.github.io/experimental_design01-principles/03-statistical-analysis/index.html)  |  Tutor-led |
+| [Case Studies](https://cloud-span.github.io/experimental_design02-case-study/)  | [RNAseq example](https://cloud-span.github.io/experimental_design02-case-study/01-RNA-seq/index.html)  |  Discussion |
+|   | [Metabolomics example](https://cloud-span.github.io/experimental_design02-case-study/02-ad-metabolomics/index.html)  |  Discussion |
+|   | [Longterm Evolution experiment](https://cloud-span.github.io/experimental_design02-case-study/03-LTEE/index.html)  |  Discussion |
+| Workshopping your own designs  |   |  Discussion |
+
+
+
+
+
+
