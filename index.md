@@ -3,8 +3,8 @@
 [Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI innovation scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
 
 **Statistically useful experimental design** is a 2 - 3 hour workshop about designing 'omics experiments. We consider:
--   what influences platform choice and what influences design when platform choice is fixed 
--   replication and controls
+-   What influences platform choice and what influences design when platform choice is fixed
+-   Replication and controls
 -   sequence coverage and depth
 -   Type I and Type II errors and multiple testing correction
 
@@ -15,18 +15,18 @@
 {: .prereq}
 
 ## Background
-Good experimental design is critical for 'omics experiments to ensure they generate data capable of addressing your research questions while controlling your reagent costs. There are choices to be made about sample preparation and storage, sequencing technologies, the numbers of technical and biological replicates and sequencing depth. All of these influence what downstream statistical analysis is possible and determine what generalisations can be made. A good experimental design, appropriate to the budget constraints, will ensure you make the relevant comparions with enough data to provide clear, publishable conclusions.
+Good experimental design is critical for 'omics experiments to ensure they generate data capable of addressing your research questions while controlling your reagent costs. There are choices to be made about sample preparation and storage, sequencing technologies, the numbers of technical and biological replicates and sequencing depth. All of these influence what downstream statistical analysis is possible and determine what generalisations can be made. A good experimental design, appropriate to the budget constraints, will ensure you make the relevant comparisons with enough data to provide clear, publishable conclusions.
 
 
 ## Learning outcomes
 
 Following completion of this module, learners will be able to:
 
-- describe why statistical design is important
-- make informed choices about sequencing platforms
-- make informed decisions about controls and replication
-- describe sequence coverage and depth
-- critically evaluate their own 'omics experimental designs
+- Describe why statistical design is important
+- Make informed choices about sequencing platforms
+- Make informed decisions about controls and replication
+- Describe sequence coverage and depth
+- Critically evaluate their own 'omics experimental designs
 
 
 # Course Overview
@@ -40,9 +40,3 @@ Following completion of this module, learners will be able to:
 |   | [Metabolomics example](https://cloud-span.github.io/experimental_design02-case-study/02-ad-metabolomics/index.html)  |  Discussion |
 |   | [Longterm Evolution experiment](https://cloud-span.github.io/experimental_design02-case-study/03-LTEE/index.html)  |  Discussion |
 | Workshopping your own designs  |   |  Discussion |
-
-
-
-
-
-
